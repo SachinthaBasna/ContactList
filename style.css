@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    scroll-behavior: smooth;
+}
+
+.contact-wrapper {
+    height: 100vh;
+}
+
+.star {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 26px;
+    cursor: pointer;
+}
